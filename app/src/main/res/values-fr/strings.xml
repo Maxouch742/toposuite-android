@@ -340,6 +340,7 @@
 	<string name="title_activity_lines_intersection">Intersection de droites</string>
 	<string name="title_activity_ortho_implantation_results">Implantation orthogonale - résultats</string>
 	<string name="title_activity_orthogonal_implantation">Implantation orthogonale</string>
+	<string name="title_activity_plot">Plan</string>
 	<string name="title_activity_point_projection">Projection d\'un point</string>
 	<string name="title_activity_point_projection_result">Projection d\'un point - résultat</string>
 	<string name="title_activity_points_manager">Gestion des points</string>

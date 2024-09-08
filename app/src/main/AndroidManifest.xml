@@ -236,6 +236,11 @@
                 <data android:scheme="file"/>
             </intent-filter>
         </activity>
+
+        <activity
+            android:name="ch.hgdev.toposuite.plot.Plot"
+            android:label="@string/title_activity_plot" />
+
         <provider
             android:name="androidx.core.content.FileProvider"
             android:authorities="${applicationId}"

@@ -342,6 +342,7 @@
 	<string name="title_activity_lines_intersection">Lines intersection</string>
 	<string name="title_activity_ortho_implantation_results">Orthogonal implantation results</string>
 	<string name="title_activity_orthogonal_implantation">Orthogonal implantation</string>
+	<string name="title_activity_plot">Map</string>
 	<string name="title_activity_point_projection">Point projection</string>
 	<string name="title_activity_point_projection_result">Point projection result</string>
 	<string name="title_activity_points_manager">Points Manager</string>
